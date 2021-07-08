@@ -1,6 +1,6 @@
 {
   "title": "owaspzap",
-  "description": "Utilize to train in OWASP Zap",
+  "description": "owaspzap",
   "difficulty": "Intermediate",
   "time": "30",
   "details": {
@@ -53,7 +53,9 @@
       "text": "finish.md"
     }
   },
-  "environment": {},
+  "environment": {
+    "uilayout": "terminal"
+  },
   "backend": {
     "imageid": "ubuntu1804"
   }
